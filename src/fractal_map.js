@@ -86,7 +86,6 @@ export default class FractalMap {
     let coords;
     while (!(coords = coordGenerator.next()).done) {
       const { x, y, mapX, mapY } = coords.value;
-      // this.fractal = (x, y) => x + y < 1;
       this.drawPixel(x, y, this.fractal(mapX, mapY) ? '#ffffff' : '#000000');
     }
   }

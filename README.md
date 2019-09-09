@@ -6,6 +6,9 @@ A little visor made for fun to check out fractals.
     <img src="generated/Mandelbrot/[-2,1];[-1,1]-20-2.png" width="250" />
     <img src="generated/MandelNOT/[-2,1];[-1,1]-5-2.png" width="250" />
     <img src="generated/MandelNOT/[-2,1];[-1,1]-7-2.png" width="250" />
+    <img src="generated/Multispiral/[-3,3];[-3,3]-1-0.3.png" width="250" />
+    <img src="generated/WavySpiral/[-3,3];[-3,3]-1.png" width="250" />
+    <img src="generated/WavySpiral/[-3,3];[-3,3]-0.1.png" width="250" />
 </div>
 
 # Usage
